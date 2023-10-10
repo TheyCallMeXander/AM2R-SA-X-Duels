@@ -1,6 +1,6 @@
 SA-X Duels is a Re-imagining of the classic Multitroid gamemode "SA-X Mode" that adds new mechanics, map changes, and balance patches to make the experience more fair and competitive for a 1v1 setting!
 
-This patch requires that you use the AM2RLauncher and have a 1.1 copy of AM2R
+**This patch requires that you use the AM2RLauncher and have a 1.1 copy of AM2R**
 
 To install, download the appropriate patch for your Operating System then do the following:
 - Open the AM2RLauncher
@@ -12,7 +12,7 @@ To install, download the appropriate patch for your Operating System then do the
 
 
 
-Credits:
+**Credits:**
 - Theycallmexander - Lead Developer of the SA-X Duels project, Spriter for certain Multitroid Hats
 - Dodobirby - Advisor, co-developer of early code
 - AbyssalCreature - Spriter for certain Multitroid hats
@@ -21,7 +21,7 @@ Credits:
 - Lucina - Spriter for custom Menu Sprites
 - Haihaa - Spriter for certain Multitroid hats
 
-BetaTesters
+**BetaTesters**
 - EnderMahan
 - AbyssalCreature
 - Dodobirby
