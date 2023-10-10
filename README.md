@@ -1,4 +1,4 @@
-SA-X Duels is a Re-imagining of the classic Multitroid gamemode "SA-X Mode" that adds new mechanics, map changes, and balance patches to make the experience fairer and more competitive for a 1v1 setting!
+SA-X Duels is a Re-imagining of the classic Multitroid gamemode "SA-X Mode" that adds new mechanics, map changes, and balance patches to make the experience more fair and competitive for a 1v1 setting!
 
 Credits:
 - Theycallmexander - Lead Developer of the SA-X Duels project, Spriter for certain Multitroid Hats
@@ -20,7 +20,7 @@ BetaTesters
 - Ehseezed
 - Glitzy
 
-With occasional guidence from the Community Updates development team!
+With occasional guidance from the Community Updates development team!
 - This mod is based off of Unofficial Multitroid 1.5.1 by Dodobirby
 - This mod is based off of the Multitroid Mod 1.4.2 by milesthenerd
 
