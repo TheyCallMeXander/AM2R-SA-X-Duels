@@ -25,8 +25,8 @@ To install, download the appropriate patch for your Operating System then do the
 - AbyssalCreature
 - BHHarbinger
 - Dodobirby
-- EnderMahan
 - Ehseezed
+- EnderMahan
 - Glitzy
 - Haihaa
 - Lucina
