@@ -22,15 +22,15 @@ To install, download the appropriate patch for your Operating System then do the
 - Haihaa - Spriter for certain Multitroid hats
 
 **BetaTesters**
-- EnderMahan
 - AbyssalCreature
-- Dodobirby
-- Haihaa
-- Lucina
 - BHHarbinger
-- Variable | ANX
+- Dodobirby
+- EnderMahan
 - Ehseezed
 - Glitzy
+- Haihaa
+- Lucina
+- Variable | ANX
 
 With occasional guidance from the Community Updates development team!
 - This mod is based off of Unofficial Multitroid 1.5.1 by Dodobirby
