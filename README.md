@@ -13,7 +13,7 @@ To install, download the appropriate patch for your Operating System then do the
 
 
 **Credits:**
-- Theycallmexander - Lead Developer of the SA-X Duels project, Spriter for certain Multitroid Hats
+- TheyCallMeXander - Lead Developer of the SA-X Duels project, Spriter for certain Multitroid Hats
 - Dodobirby - Advisor, co-developer of early code
 - AbyssalCreature - Spriter for certain Multitroid hats
 - Haihaa - Spriter for certain Multitroid hats
