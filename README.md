@@ -16,10 +16,10 @@ To install, download the appropriate patch for your Operating System then do the
 - Theycallmexander - Lead Developer of the SA-X Duels project, Spriter for certain Multitroid Hats
 - Dodobirby - Advisor, co-developer of early code
 - AbyssalCreature - Spriter for certain Multitroid hats
+- Haihaa - Spriter for certain Multitroid hats
 - Shirtyscarab - Spriter for the SA-X Power Bar
 - EpsilonTheDerg - Spriter for Omniscience, Hunter Sense, and VariaX Icons, and a certain Multitroid Hat
 - Lucina - Spriter for custom Menu Sprites
-- Haihaa - Spriter for certain Multitroid hats
 
 **BetaTesters**
 - AbyssalCreature
