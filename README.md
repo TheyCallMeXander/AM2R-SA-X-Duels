@@ -20,7 +20,7 @@ BetaTesters
 - Ehseezed
 - Glitzy
 
-With accasional guidence from the Community Updates development team!
+With occasional guidence from the Community Updates development team!
 - This mod is based off of Unofficial Multitroid 1.5.1 by Dodobirby
 - This mod is based off of the Multitroid Mod 1.4.2 by milesthenerd
 
