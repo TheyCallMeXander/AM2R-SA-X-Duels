@@ -30,9 +30,13 @@ To install, download the appropriate patch for your Operating System then do the
 - Glitzy
 - Haihaa
 - Lucina
+- Miepee
 - Variable | ANX
 
+
 With occasional guidance from the Community Updates development team!
+- This mod is based off the Community Updates for AM2R
 - This mod is based off of Unofficial Multitroid 1.5.1 by Dodobirby
 - This mod is based off of the Multitroid Mod 1.4.2 by milesthenerd
+- This mod includes the Omegasuit patch by Jes Right
 
