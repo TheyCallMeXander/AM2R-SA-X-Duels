@@ -20,6 +20,7 @@ To install, download the appropriate patch for your Operating System then do the
 - Shirtyscarab554 - Spriter for the SA-X Power Bar
 - EpsilonTheDerg - Spriter for Omniscience, Hunter Sense, and VariaX Icons, and a certain Multitroid Hat
 - Lucina - Spriter for custom Menu Sprites
+- Bastion B-56 - Level Designer for Labs: Spikey Hallway rework
 
 **BetaTesters**
 - AbyssalCreature
